@@ -19,3 +19,14 @@ proposito: este prompt permite que el estilo que tiene la pagina sea mas destaca
 a los usuarios que decidan visitarla y que la informacion que entrega sea facil de comprender
 
 evaluacion de resultado: util
+
+
+etapa 3: incorporacion de contenido
+
+prompt: "puedes hacer que el producto entregue mas informacion acerca de este y sus beneficios de comprarlo, como sus 
+caracteristicas principales las especificaciones tecnicas que tiene y porque es la mejor consola que puedas adquirir"
+
+proposito: en esta etapa el prompt permite que el usuario tenga mas razones de comprar la consola y tambien entrega
+mas informacion tecnica acerca de los componentes de esta misma
+
+evaluacion de resultado: util 
