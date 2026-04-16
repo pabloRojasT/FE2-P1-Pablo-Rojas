@@ -30,3 +30,14 @@ proposito: en esta etapa el prompt permite que el usuario tenga mas razones de c
 mas informacion tecnica acerca de los componentes de esta misma
 
 evaluacion de resultado: util 
+
+
+etapa 4: adaptacion a dispositivos moviles 
+
+prompt: "puedes hacer que la pagina web sea visible para dispositivos
+ de android o IOS permitiendo tener buena legibilidad para asi no tener errores de distribución o superposición"
+
+proposito: este prompt ayuda a evitar problemas al ver la pagina web desde algun dispositivos celular, permitiendo
+mas accesibilidad para cualquier dispositivos que el usuario tengo a sus manos
+
+evaluacion de resultado: muy util

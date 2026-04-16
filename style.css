@@ -58,6 +58,28 @@ body {
     border-radius: 5px;
   }
   
+  /* Table styles for better readability on small screens */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  table th, table td {
+    text-align: left;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: #ff4757;
+    color: #fff;
+  }
+  
+  table td {
+    background-color: #f9f9f9;
+  }
+  
   /* Footer styles */
   footer {
     text-align: center;
@@ -84,5 +106,37 @@ body {
   
     section {
       padding: 1rem;
+    }
+  
+    ul li {
+      font-size: 0.9rem;
+    }
+  
+    table th, table td {
+      font-size: 0.9rem;
+      padding: 0.5rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    header h1 {
+      font-size: 1.8rem;
+    }
+  
+    header p {
+      font-size: 0.9rem;
+    }
+  
+    section {
+      padding: 0.8rem;
+    }
+  
+    ul li {
+      font-size: 0.8rem;
+    }
+  
+    table th, table td {
+      font-size: 0.8rem;
+      padding: 0.4rem;
     }
   }
