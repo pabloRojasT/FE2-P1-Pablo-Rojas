@@ -41,3 +41,14 @@ proposito: este prompt ayuda a evitar problemas al ver la pagina web desde algun
 mas accesibilidad para cualquier dispositivos que el usuario tengo a sus manos
 
 evaluacion de resultado: muy util
+
+
+etapa 5: mejora final 
+
+prompt: "puedes hacer que la pagina tenga una tabla de todos los atributos tecnicos 
+que tiene la nintendo switch 2 sin afectar el orden de la pagina web"
+
+proposito: este ultimo prompt permite que el usuario tenga ya una vision mas facil y directa de lo que ofrece
+de manera tecnica la nintendo switch 2 al haberlo convertido en una tabla
+
+evaluacion de resultado: util 
