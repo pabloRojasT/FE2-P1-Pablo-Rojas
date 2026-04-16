@@ -1,0 +1,10 @@
+Etapa 1: Version inicial 
+
+Prompt: "en base al codigo HTML5 que esta dentro de index puedes hacer una version inicial
+de una pagina web acerca de una nintendo switch 2
+teniendo una seccion destacada acerca de este"
+
+Proposito: el proposito de este primer prompt es poder tener una base para poder crear la pagina web acerca de la nintendo switch 2
+permitiendo ver el tema principal de la pagina web al igual que cual es su funcion y que ofrece
+
+evaluacion de resultado: muy util
