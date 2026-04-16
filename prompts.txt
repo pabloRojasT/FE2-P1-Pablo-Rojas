@@ -8,3 +8,14 @@ Proposito: el proposito de este primer prompt es poder tener una base para poder
 permitiendo ver el tema principal de la pagina web al igual que cual es su funcion y que ofrece
 
 evaluacion de resultado: muy util
+
+
+etapa 2: Mejora visual
+
+prompt: "en style puedes hacer que la pagina web sea mas atractiva 
+teniendo una mejora en su diseño para asi poder tener una distribucion del contenido mas limpia y moderna"
+
+proposito: este prompt permite que el estilo que tiene la pagina sea mas destacada permitiendole llamar la atencion
+a los usuarios que decidan visitarla y que la informacion que entrega sea facil de comprender
+
+evaluacion de resultado: util
